@@ -1,1 +1,1 @@
-print('Ini Contoh')
+print('Kocheeenggg')
